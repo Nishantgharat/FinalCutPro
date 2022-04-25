@@ -1,0 +1,12 @@
+1.
+
+A->Ba|Aa|c
+B->Bb|Ab|d
+
+
+2.
+
+E->EA|A
+A->AE|a
+T=a
+E->i
